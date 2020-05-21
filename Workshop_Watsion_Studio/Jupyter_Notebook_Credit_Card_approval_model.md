@@ -1,4 +1,4 @@
-# Jupyter Notebook - Credit Card Approval Model
+# Chapter 4 Jupyter Notebook - Credit Card Approval Model
 
 In this tutorial, you will be using Machine Learning and Jupyter Notebook using Watson Sutdio.
 
