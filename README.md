@@ -13,6 +13,6 @@ We have prepared 4 tutorials to show participants how to leverage IBM Cloud for 
 
 1. In the first segment, we will teach you how to build a Chatbot using IBM Waston Assistant and some other AI Services on IBM Cloud
 
-2. As well as a quick tutorial on using IBM Watson Studio for Data Scientists joining the competition!
+2. As well as a quick tutorial on IBM Watson Studio for Data Scientists joining the competition, and an introduction to Visual Recognition
 
-3. For more advanced users, please check out the last segment!
+3. For more advanced developers, please check out the last segment too!
