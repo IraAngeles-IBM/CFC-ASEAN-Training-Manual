@@ -27,6 +27,10 @@
 * [b) Object Detection Lab](https://cloud.annotations.ai/workshops/object-detection/index.html)
 * [Different Types of Visual Recognition](https://www.geeksforgeeks.org/object-detection-vs-object-recognition-vs-image-segmentation/)
 
+## IBM Code Pattern
+
+* [IBM Code Pattern Repository](ibm_code_pattern.md)
+
 ## For more Advanced Users
 
 * [1. Setting up your first IoT](https://developer.ibm.com/technologies/iot/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/)
@@ -34,7 +38,7 @@
 * [3. Model Asset eXchange (MAX)](https://developer.ibm.com/exchanges/models/)
 * [4. Cloud Foundry on IBM Cloud](https://developer.ibm.com/technologies/paas/)
 * [5. Earn Digital Badges](https://cognitiveclass.ai)
-* [6. IBM Code Pattern Repository](https://developer.ibm.com/patterns/)
+
 * [7. Introduction to Watson Assistant](https://developer.ibm.com/technologies/artificial-intelligence/articles/introduction-watson-assistant )
 * [8. Introduction to Watson Discovery](https://developer.ibm.com/articles/introduction-watson-discovery/)
 * [9. Get started with Node-RED](https://developer.ibm.com/gettingstarted/node-red/)
