@@ -33,16 +33,15 @@
 
 ## For more Advanced Users
 
-* [1. Setting up your first IoT](https://developer.ibm.com/technologies/iot/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/)
-* [2. Creating an App with CloudantDB](https://developer.ibm.com/tutorials/provision-a-couchdb-instance-using-cloudant-cfc-starter-kit-2/)
-* [3. Model Asset eXchange (MAX)](https://developer.ibm.com/exchanges/models/)
-* [4. Cloud Foundry on IBM Cloud](https://developer.ibm.com/technologies/paas/)
-* [5. Earn Digital Badges](https://cognitiveclass.ai)
-
-* [7. Introduction to Watson Assistant](https://developer.ibm.com/technologies/artificial-intelligence/articles/introduction-watson-assistant )
-* [8. Introduction to Watson Discovery](https://developer.ibm.com/articles/introduction-watson-discovery/)
-* [9. Get started with Node-RED](https://developer.ibm.com/gettingstarted/node-red/)
-* [10. SMS Enabled Chatbot using Twilio and The Weather Company API](https://developer.ibm.com/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/)
+* [Setting up your first IoT](https://developer.ibm.com/technologies/iot/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/)
+* [Creating an App with CloudantDB](https://developer.ibm.com/tutorials/provision-a-couchdb-instance-using-cloudant-cfc-starter-kit-2/)
+* [Model Asset eXchange (MAX)](https://developer.ibm.com/exchanges/models/)
+* [Cloud Foundry on IBM Cloud](https://developer.ibm.com/technologies/paas/)
+* [Earn Digital Badges](https://cognitiveclass.ai)
+* [Introduction to Watson Assistant](https://developer.ibm.com/technologies/artificial-intelligence/articles/introduction-watson-assistant )
+* [Introduction to Watson Discovery](https://developer.ibm.com/articles/introduction-watson-discovery/)
+* [Get started with Node-RED](https://developer.ibm.com/gettingstarted/node-red/)
+* [SMS Enabled Chatbot using Twilio and The Weather Company API](https://developer.ibm.com/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/)
 
 ## IBM Developer - ASEAN
 
