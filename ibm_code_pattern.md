@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href= "https://developer.ibm.com/callforcode" >
-        <img  src="https://raw.githubusercontent.com/IraAngeles-IBM/CFC-ASEAN-Training-Manual/master/Workshop_Watsion_Studio/Images/D018_2020CFC_OwnedMedia_TileE_WhatWillYouBuild_TW_1024x512_R02.jpg">
+        <img  src="https://raw.githubusercontent.com/IraAngeles-IBM/CFC-ASEAN-Training-Manual/master/images/code_pattern_youtube.jpeg">
     </a>
 </p>
 
