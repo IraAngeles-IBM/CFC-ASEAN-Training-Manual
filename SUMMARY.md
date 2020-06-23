@@ -27,13 +27,14 @@
 * [b) Object Detection Lab](https://cloud.annotations.ai/workshops/object-detection/index.html)
 * [Different Types of Visual Recognition](https://www.geeksforgeeks.org/object-detection-vs-object-recognition-vs-image-segmentation/)
 
-## IBM Code Pattern
+## IBM Code Pattern and Tutorial Video
 
-* [IBM Code Pattern Repository](ibm_code_pattern.md)
+* [Tutorial Video](youtube_video.md)
+* [IBM Code Pattern Repository](https://developer.ibm.com/patterns/)
 
 ## For more Advanced Users
 
-* [Setting up your first IoT](https://developer.ibm.com/technologies/iot/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/)
+* [Setting up your first IoT](Tutorials/watson_iot_platform.md)
 * [Creating an App with CloudantDB](https://developer.ibm.com/tutorials/provision-a-couchdb-instance-using-cloudant-cfc-starter-kit-2/)
 * [Model Asset eXchange (MAX)](https://developer.ibm.com/exchanges/models/)
 * [Cloud Foundry on IBM Cloud](https://developer.ibm.com/technologies/paas/)

@@ -17,6 +17,10 @@ In this tutorial, you will:
 - Import and deploy the Watson Assistant chatbot example
 - Build a Call for Code COVID Crisis Communications voice-enabled chatbot solution
 
+## Tutorial Video
+
+[![Create a voice-enabled COVID-19 chatbot using Node-RED](https://img.youtube.com/vi/eMN2sJuJjg0/0.jpg)](https://www.youtube.com/playlist?list=PLMM_qTBHpUYnDKFbuPk8iyowoYuG8lYyC)
+
 ## Prerequisites
 
 - Register for an [IBM Cloud](https://ibm.biz/BdqM7r) account, if you do not have an account yet. Otherwise, please proceed to IBM Cloud [login](https://ibm.biz/cloud-login-aseandeg)

@@ -2,6 +2,10 @@
 
 In times of crisis, chatbots can help people quickly find answers they need to critical questions. In the case of a pandemic like COVID-19, people might be trying to find basic information about testing, symptoms, community response, and other resources.
 
+## Tutorial Video
+
+[![Create a crisis communication chatbot and connect it to news and COVID-19 data sources ](https://img.youtube.com/vi/2bDFYYMqv_g/0.jpg)](https://www.youtube.com/playlist?list=PLMM_qTBHpUYlGU9dMwggGpDeFA8Vx6jc-)
+
 This tutorial shows you how to create a crisis communication chatbot using IBM® Watson™ Assistant and how to add webhooks to Watson Assistant to query for dynamic data using Watson Discovery and COVID-19 APIs.
 
 ## Learning objectives
