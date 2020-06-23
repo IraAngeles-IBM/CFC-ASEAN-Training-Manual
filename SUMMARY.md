@@ -44,6 +44,10 @@
 * [Get started with Node-RED](https://developer.ibm.com/gettingstarted/node-red/)
 * [SMS Enabled Chatbot using Twilio and The Weather Company API](https://developer.ibm.com/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/)
 
+## Troubleshooting
+
+* [Common Issues](faq.md)
+
 ## IBM Developer - ASEAN
 
 * [Team](team.md)
