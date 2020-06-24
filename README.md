@@ -6,7 +6,7 @@
     </a>
 </p>
 
-We have prepared 4 tutorials to show participants how to leverage IBM Cloud for the hackathon!
+We have prepared tutorials to show participants how to leverage IBM Cloud for the hackathon!
 
 1. In the first segment, we will teach you how to build a Chatbot using IBM Waston Assistant and some other AI Services on IBM Cloud
 
