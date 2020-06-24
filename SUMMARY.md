@@ -30,6 +30,7 @@
 ## IBM Code Pattern and Tutorial Video
 
 * [Tutorial Video](youtube_video.md)
+* [Earn Digital Badges](https://cognitiveclass.ai)
 * [IBM Code Pattern Repository](https://developer.ibm.com/patterns/)
 
 ## For more Advanced Users
@@ -38,7 +39,6 @@
 * [Creating an App with CloudantDB](https://developer.ibm.com/tutorials/provision-a-couchdb-instance-using-cloudant-cfc-starter-kit-2/)
 * [Model Asset eXchange (MAX)](https://developer.ibm.com/exchanges/models/)
 * [Cloud Foundry on IBM Cloud](https://developer.ibm.com/technologies/paas/)
-* [Earn Digital Badges](https://cognitiveclass.ai)
 * [Introduction to Watson Assistant](https://developer.ibm.com/technologies/artificial-intelligence/articles/introduction-watson-assistant )
 * [Introduction to Watson Discovery](https://developer.ibm.com/articles/introduction-watson-discovery/)
 * [Get started with Node-RED](https://developer.ibm.com/gettingstarted/node-red/)
