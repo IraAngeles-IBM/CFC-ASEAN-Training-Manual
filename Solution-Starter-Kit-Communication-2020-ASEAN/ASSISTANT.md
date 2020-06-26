@@ -250,4 +250,3 @@ Now that you know how to create a COVID-19 chatbot and connect it to Watson Disc
 
 While this tutorial is based on managing crisis communication during COVID19 with AI, there are many other use cases that we can utilise technology! If you are interested, check out other [AI services](https://developer.ibm.com/technologies/artificial-intelligence/) too. Cannot wait to see what your team will build!
 
-
